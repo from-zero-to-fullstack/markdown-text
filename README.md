@@ -10,16 +10,32 @@ This repository aims to create a readme.md file so that Mariana and Cristina can
 
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
 
-# How to clone this repository?
+# Setup
 
-Open terminal and type the following commands
+## Run locally
+
+Create and go to the directory where you want to place the repository
 
 ```bash
-  cd <the-path-that-you-want>
+  cd my-directory
 ```
+
+Clone the project
 
 ```bash
   git clone https://github.com/from-zero-to-fullstack/markdown-text.git
+```
+
+Go to the project directory
+
+```bash
+  cd markdown-text
+```
+
+Open in Visual Studio Code
+
+```bash
+  code .
 ```
 
 # License
