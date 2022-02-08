@@ -4,7 +4,7 @@ From zero to FullStack - an unofficial course led by [Pedro Soares](https://gith
 
 # Introduction
 
-This repository aims to create a readme.md file so that Mariana and Cristina can apply the knowledge they have acquired.
+This repository aims to create a `.md` file so that Mariana and Cristina can apply the knowledge they have acquired.
 
 # Technologies
 
