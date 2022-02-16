@@ -15,5 +15,5 @@ A ver se saímos daqui umas prós! ahaha
 | Mariana | 31 | Ovar |
 | Flávio | 28 | Gaia |
 
-O meu canal favorito de youtube é [youtube Caro Trippar] (https://www.youtube.com/c/CaroTrippar)
+O meu canal favorito de youtube é [youtube Caro Trippar](https://www.youtube.com/c/CaroTrippar)
 
